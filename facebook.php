@@ -67,6 +67,7 @@ class Facebook extends BaseFacebook
     $session_var_name = $this->constructSessionVariableName($key);
     return isset($_SESSION[$session_var_name]) ?
       $_SESSION[$session_var_name] : $default;
+      //commenting code 
   }
 
   protected function clearPersistentData($key) {
