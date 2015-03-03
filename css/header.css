@@ -1,0 +1,30 @@
+
+.headline {font-family:arial; color:#585858;font-size:28px;letter-spacing:0px;padding:20px 15px;font-weight:bold;padding-bottom:10px;padding-top:30px;}
+
+.head44 {font-family:arial; color:#7c7c7c;font-size:12px;letter-spacing:2px;padding:20px 25px;text-transform: uppercase;font-weight:bold;padding-bottom:10px;}
+
+.head43 {font-family:verdana; color:#171717;font-size:11px;letter-spacing:0px;padding:0px 25px;padding-right:30px;font-weight:normal;padding-bottom:25px;}
+
+.value {font-family:verdana; color:#6b6b6b;font-size:11px;letter-spacing:0px;padding:0px 0px;font-weight:normal;text-transform: uppercase;padding-top:2px;}
+
+.price {font-family:verdana; color:#2e2e2e;font-size:21px;letter-spacing:0px;padding:0px 0px;font-weight:normal;}
+
+.gone {font-family:verdana; color:#2a6da4;font-size:16px;letter-spacing:0px;padding:0px 0px;font-weight:bold;font-style:italic;padding: 20px 0;}
+
+.left {font-family:verdana; color:#000000;font-size:13px;letter-spacing:0px;padding:0px 0px;font-weight:normal;font-style:normal;padding-top:2px;text-transform: uppercase;text-align:center;padding-left:14px;}
+
+.left2 {font-family:verdana; color:#ffffff;font-size:14px;letter-spacing:0px;padding:0px 0px;font-weight:bold;font-style:normal;padding-top:0px;text-align:center;padding-left:14px;}
+
+.menu-top a {font-family:arial; color:#685b2e;font-size:13px;letter-spacing:0px;padding:0px 0px;font-weight:bold;font-style:normal;padding-top:0px;text-align:center;padding-left:36px;text-transform: uppercase;text-decoration:none;}
+
+.menu-top a:hover {text-decoration:underline;}
+
+.menu-top {padding-bottom:8px;padding-left:11px;}
+
+
+.menu-top2 a {font-family:arial; color:#3c3c3c;font-size:11px;letter-spacing:0px;padding:0px 0px;font-weight:normal;font-style:normal;padding-top:0px;text-align:right;padding-left:12px;text-transform: uppercase;text-decoration:none;}
+
+.menu-top2 a:hover {text-decoration:underline;}
+
+.menu-top2 {padding-bottom:8px;padding-left:11px;}
+
